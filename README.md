@@ -9,4 +9,9 @@ Objective: Build a model to predict house prices based on features such as area,
 Task 2: Classifying Emails as Spam or Not Spam
 Objective: Create a model to classify emails as spam or not spam.
 
-Future Tasks: As more tasks are completed, they will be added here with a brief description of each.
+Task 3: Predicting Customer Churn
+Objective: Develop a model to predict whether a customer will churn(leave the service) based on their usage patterns and demographics.
+
+Task 4: Image Classification
+Objective: Build a model to classify images into different categories.
+
